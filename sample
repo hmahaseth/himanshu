@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="shortcut icon" type="image/x-icon" href="E:\pictures\Roll Royce Ghost.webp" />
+      <title>Royals</title>
+
+      <link rel="stylesheet" href="style.css">
+       
+    <body background="E:\pictures\Screenshot (246).png"
+    width="4px" height="4px" alt="building">
+      <h1>User id:<input type="text"name="user_id" value="username">
+      </h1> 
+     <form>Password:<input type="password" name="password" value="password">
+    </form> 
+    <radio> 
+      <br>Select your Stream</form> 
+    </br>Science<input type="radio" name="stream"value="science"></form>
+    
+      <br>Management<input type="radio" name="stream" value="management">
+  </br>  </radio>
+  <a href="https://www.youtube.com">Multimedia</a>
+  <table border="2">
+    <caption>Table</caption>
+    <tr align="center">
+      <th>Company</th>
+      <th>Contact</th>
+      <th>Country</th>
+    </tr>
+    <tr align="center">
+      <td>Gr8 sOFts</td>
+      <td>9800000</td>
+      <td rowspan="2">India</td>
+    </tr>
+   <tr align="center">
+    <td>Royal studio</td>
+    <td>+9176742688</td>
+    
+   </tr>
+  </table>
+ <marquee> 
+ <p>
+<img src="F:\img ccrec\IMG20221110171333.jpg" 
+width="800px" height="400px"alt="building" align="right">
+ on the ocassion of welcome programe Also known as a welcome journey,
+  or an onboarding program, a welcome program is a series of one or
+  more automated messages (typically emails) sent to an individual 
+  when they subscribe to your mailing list.<br>
+  <img src="E:\pictures\attitude-status-for-girls-in-english.jpg" width="500px" height=400px" align="left">
+  The Holi festival has 
+  a cultural significance among various Hindu traditions of the Indian subcontinent.
+   It is the festive day to end and rid oneself of past errors, to end conflicts by meeting others, a day to forget and forgive. People pay or forgive debts, 
+  as well as deal anew with those in their lives. Holi also marks the
+ 
+</p>
+ </marquee>
+
+<br>
+<marquee><video controls  width="500px" height="300px"align="right">
+  <source src="F:\window aap\Hookah_Bar_Remix_–_[Tik_Tok_Remix](1080p).mp4" >
+</video></marquee>
+    <marquee width="1600px" direction="right" height="800px"><img src="E:\pictures\Coloured-headlamps.jpg"></marquee>
+
+       
+    </body>
+</head>
+</html>
