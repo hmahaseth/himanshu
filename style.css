@@ -1,0 +1,22 @@
+
+h1{
+    color:#089ee9;
+    font-size:20px ;
+}
+radio{
+    color:gold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    color:aqua;
+}
+table{
+    color:darkred;
+    background-color: blue;
+}
+p{
+    color:#d5f508;
+text-size-adjust:78px;
+}
+
